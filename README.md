@@ -2,6 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sam Chris!
 ![Twitter Follow](https://img.shields.io/twitter/follow/React_samscript?color=success&style=for-the-badge)
+Software Developer specializing with Javascript Technologies and Aws Amplify.Good experience with the technology listed in the #toolbox below
 <!--
 **samcesa45/samcesa45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
