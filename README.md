@@ -10,7 +10,7 @@ Software Developer specializing with Javascript Technologies and Aws Amplify.Goo
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node Logo"  width="100" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/reactjs.svg" alt="React Logo"  width="100" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React Logo"  width="100" height="50"/>
 
 
 ---
