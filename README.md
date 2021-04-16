@@ -9,7 +9,7 @@ Software Developer specializing with Javascript Technologies and Aws Amplify.Goo
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html% Logo" idth="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node Logo"  width="100" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo"  width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html% Logo" idth="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node Logo"  width="100" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo"  width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-ui Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Boostrap Logo" width="50" height="50"/>
