@@ -15,6 +15,7 @@ Software Developer specializing with Javascript Technologies and Aws Amplify.Goo
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Boostrap Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongo Logo" width="100" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm Logo" width="50" height="50"/>
 
 
 
