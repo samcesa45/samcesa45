@@ -1,7 +1,7 @@
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sam Chris!
-[Github Follow](https://img.shields.io/github/followers/:github.com/samcesa45?label=Follow)
+[Github Follow](https://img.shields.io/github/followers/:samcesa45?label=Follow)
 Software Developer specializing with Javascript Technologies and Aws Amplify.Good experience with the technology listed in the 
 ### toolbox below
 ---
